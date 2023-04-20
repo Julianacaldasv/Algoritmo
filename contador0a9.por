@@ -11,3 +11,5 @@ programa {
     
   }
     escreva("\nTotal: ", total)
+}
+}
