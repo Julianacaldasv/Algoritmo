@@ -9,3 +9,5 @@ programa
           escreva ("Numero: ", total, "\n")
   }
     escreva("\nTotal: ", total)
+}
+}
